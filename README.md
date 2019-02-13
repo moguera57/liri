@@ -2,16 +2,16 @@
 
 spotify-this-song - searches for a song via spotify
 
-[Alt text](/ss1.png?raw=true)
+[Spotify-This-Song](/ss1.png?raw=true)
 
 movie-this
 
-[Alt text](/ss2.png?raw=true)
+[Movie-This](/ss2.png?raw=true)
 
 concert-this
 
-[Alt text](/ss3.png?raw=true)
+[Concert-This](/ss3.png?raw=true)
 
 do-what-it-says
 
-[Alt text](/ss4.png?raw=true)
+[Do-What-It-Says](/ss4.png?raw=true)
